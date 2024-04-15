@@ -1,0 +1,12 @@
+{
+   "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "firstName": { "type": "string" },
+        "lastName": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "registerDate": { "type": "string", "format": "date-time" },
+        "updatedDate": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "firstName", "lastName", "email", "registerDate", "updatedDate"]
+    }

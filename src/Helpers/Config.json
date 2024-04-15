@@ -1,0 +1,7 @@
+{
+    "ApiConstructor":{
+        "Creating_User_Endpoint":"https://dummyapi.io/data/v1/user/create",
+        "app-id":"6612b3287f1653304972d255",
+        "Getting_User_Endpoint":"https://dummyapi.io/data/v1/user/"
+    }
+}
